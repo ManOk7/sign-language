@@ -24,7 +24,6 @@ classifier = Classifier(r"D:\Important Stuff\Projects\Python\Sign language\Model
 offset = 20
 imgSize = 300
 
-folder = "Data/C"
 counter = 0
 
 labels = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
